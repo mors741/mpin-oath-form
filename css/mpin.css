@@ -25,6 +25,7 @@ button::-moz-focus-inner {
 }
 
 #main-div {
+    min-width: 320px;
     display: table-cell;
     vertical-align: middle;
 }
